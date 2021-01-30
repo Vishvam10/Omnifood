@@ -1,6 +1,6 @@
 # Omnifood
 
-** The UI : **
+**The UI**
 
 **Landing Page :**
 
@@ -26,3 +26,13 @@
 
 <img src = "UI/6.png" width=800>
 
+# Features :
+1. Pure HTML and CSS
+2. Sticky navigation
+3. Smooth scroll
+4. Fully responsive
+
+# Learning Outcomes :
+- Understood the basics of web development
+- Got a good grip at HTML and CSS
+- Learnt how to build a responsive website
