@@ -1,6 +1,6 @@
 # Omnifood
 
-## The UI
+**The UI**
 
 **Landing Page :**
 
